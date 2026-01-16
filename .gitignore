@@ -1,2 +1,5 @@
-workdir/
+workdir/*
+!workdir/.gitkeep
 confdir/*.key
+confdir/*.crt
+confdir/secrets.*
